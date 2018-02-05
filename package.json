@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/maiavictor/xhr-request-promise#readme",
   "dependencies": {
-    "xhr-request": "^1.0.1"
+    "xhr-request": "^1.1.0"
   }
 }
